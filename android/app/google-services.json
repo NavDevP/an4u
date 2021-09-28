@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055464193840",
+    "project_id": "imdbanime-779cd",
+    "storage_bucket": "imdbanime-779cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055464193840:android:f17ed7be0ea87fe6b412f5",
+        "android_client_info": {
+          "package_name": "com.coderufus.imdbanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055464193840-75cvir8ka49hdtvh83ss9s7nkb8an54e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coderufus.imdbanime",
+            "certificate_hash": "53a0ca2ae70e7835b72b0f4f5b5938a23a38a3e9"
+          }
+        },
+        {
+          "client_id": "1055464193840-g6e7tsmp6uk5gds45s1vrqm1tgfc03k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAdcH0MHoFxCQxlpFDoCXUBv4PE40BbT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055464193840-g6e7tsmp6uk5gds45s1vrqm1tgfc03k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
