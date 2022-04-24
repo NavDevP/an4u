@@ -1,8 +1,8 @@
 class ApiUrl{
 
-  static const String WebURL = "https://userapi.imdbanime.com/";
-  static const String GOGO = "https://node.imdbanime.com/";
-  static const String Googl = "https://api.imdbanime.com/";
+  static const String WebURL = "https://sub.example.com/";
+  static const String GOGO = "https://node.example.com/";
+  static const String Googl = "https://api.example.com/";
   static const String OurApi = WebURL + "api/";
   static const String GOGOApi = GOGO + "api/v1/";
 
